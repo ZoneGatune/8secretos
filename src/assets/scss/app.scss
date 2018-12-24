@@ -20,13 +20,13 @@ File: scss
  */
 
 
-/******************* 
-Global Styles 
+/*******************
+Global Styles
 *******************/
 
 * {
     outline: none;
-    
+
 }
 
 body {
@@ -1852,7 +1852,7 @@ Notify
 }
 
 /*******************
-File Upload 
+File Upload
 ******************/
 
 .fileupload {
@@ -1878,7 +1878,7 @@ Megamenu
 .mega-dropdown {
     position: static!important;
     width: 100%;
-    
+
     .dropdown-menu {
         width: 100%;
         padding: 30px;
@@ -2060,12 +2060,7 @@ Layouts
 /*******************/
 
 .single-column {
-    .left-sidebar {
-        display: none;
-    }
-    .page-wrapper {
-        margin-left: 0px;
-    }
+
 }
 
 .fix-width {
