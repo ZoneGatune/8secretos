@@ -2060,7 +2060,12 @@ Layouts
 /*******************/
 
 .single-column {
-
+    .left-sidebar {
+        display: none;
+    }
+    .page-wrapper {
+        margin-left: 0px;
+    }
 }
 
 .fix-width {
